@@ -32,6 +32,6 @@ class student{
 
 
     static{
-        college="AVCOE SANGAMNER";
+        college="AVCOE SANGAMNER in pune";
     }
 }
