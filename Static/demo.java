@@ -7,7 +7,7 @@ public class demo {
         student s1= new student();
         s1.name="sarthak";
         System.out.println(s1.name);
-        System.out.println(s1.college);
+        System.out.println(student.college);
     
     }
     
