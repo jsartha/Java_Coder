@@ -19,9 +19,9 @@ public class single {
 
 class vehicle {
 
-    String brand;
+    protected String brand;
     String color;
-    int speed;
+   protected  int speed;
 
     void start() {
         System.out.println("Vehicle is started");
