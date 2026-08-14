@@ -4,7 +4,7 @@ public class demo {
     
     public static void main(String[] args) {
        
-        student s1= new student();
+        student1 s1= new student1();
         s1.age=21;
         s1.name="Sarthak";
         s1.college_department="Computer Science";
@@ -24,7 +24,7 @@ class college{
 
 }
 
-class student extends college{
+class student1 extends college{
 
     
 

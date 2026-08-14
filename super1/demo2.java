@@ -30,7 +30,7 @@ class student extends School{
 
         super.display_School();
 
-        System.out.println(" marks of student is "+ super.marks);
+      //  System.out.println(" marks of student is "+ super.marks);
     }
 
       
