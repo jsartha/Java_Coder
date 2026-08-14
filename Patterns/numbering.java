@@ -18,7 +18,7 @@ public class numbering {
 
             for(int j=1; j<=5; j++){
 
-                System.out.print((char)(j+64)+" ");
+                System.out.print((char)(j+64 )+" ");
             }
             System.out.println();
         }
