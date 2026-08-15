@@ -22,5 +22,35 @@ public class numbering {
             }
             System.out.println();
         }
+
+
+
+        for(int i=0;i<=10; i++){
+
+            for(int j=0; j<=4; j++){
+            
+          System.out.print( (char)(j+97 ));
+
+            }
+            System.out.println();
+
+        }
+             // start pattern 
+
+        for(int row=0; row<=5;row++){
+            for(int col=0;col<=row;col++
+
+
+            ){
+
+                System.out.print((char) (col+97)+""
+            );
+            }
+            System.out.println();
+        }
+
+        
+
     }
 }
+
